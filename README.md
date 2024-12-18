@@ -1,5 +1,7 @@
 # Local Sightseeing Map App
 
+## The current version of this repository can be found at [Astromao - sightseeing-map](https://github.com/AstromaoLabs/sightseeing-map)
+
 ## Overview
 This project is a collaborative Django + React application designed to help users explore and review local sightseeing spots. The app integrates geolocation to pinpoint the user's current location, displays nearby places of interest, and provides detailed information such as ratings, reviews, opening hours, and pictures. Users can filter spots based on proximity and categories, making it a convenient tool for discovering restaurants, cafes, and attractions in your city.
 
